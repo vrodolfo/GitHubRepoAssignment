@@ -1,0 +1,9 @@
+
+Created a new folder from command console. mkdir
+Created a new file   from command console. vi
+Initialize repository. git ini
+Add to stage the files. git add .
+Commit. git commit
+Push the file to git hub. 
+ 
+
